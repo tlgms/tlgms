@@ -39,24 +39,6 @@
 
 <br>
 
-<h3 align="center">📚 Studying</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST API-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS Deploy-FF9900?style=for-the-badge" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Android Client-3DDC84?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI Web Service-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System Design-1F6FEB?style=for-the-badge" />
-</div>
-
-<br>
-
 <h3 align="center">🛠 Tools</h3>
 
 <div align="center">
