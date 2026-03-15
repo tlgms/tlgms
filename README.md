@@ -17,8 +17,6 @@
   Android, Docker, AWS, AI 활용 웹 서비스에도 관심이 있습니다.
 </p>
 
-<br>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
