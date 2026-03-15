@@ -46,8 +46,17 @@
 
 <!-- GitAnimals 전용 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f1c2c,50:3a506b,100:5bc0be&height=180&section=header&text=Little%20Animal%20Zone&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=A%20completely%20separate%20space%20from%20my%20developer%20profile&descAlignY=68&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:6a82fb,100:43e97b&height=200&section=header&text=Little%20Animal%20Zone&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=A%20playful%20space%20separate%20from%20my%20developer%20profile&descAlignY=65&descAlign=50" />
 </p>
+
+<div align="center">
+  <h3>🐾 Little Animal Zone 🐾</h3>
+  <p>
+    A playful and cozy space, fully separated from my developer profile.
+  </p>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gh7035&utm_content=farm">
@@ -59,5 +68,5 @@
 
 <!-- GitAnimals 전용 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:5bc0be,50:3a506b,100:1f1c2c&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,50:6a82fb,100:4facfe&height=120&section=footer" />
 </p>
