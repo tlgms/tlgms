@@ -32,7 +32,7 @@
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tlgms&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="165" />
 </div>
 
 <br><br>
