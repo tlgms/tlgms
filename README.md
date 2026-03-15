@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="165" />
 </div>
 
-<br><br>
+---
 
 <!-- 메인 프로필 푸터 -->
 <p align="center">
