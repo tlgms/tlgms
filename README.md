@@ -56,32 +56,6 @@
 
 <br>
 
-<h3 align="center">📂 Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project-board-api">
-    <b>📌 Board API Project</b>
-  </a>
-  <br/>
-  Spring Boot + JPA + MySQL 기반 게시판 API 프로젝트
-  <br/><br/>
-
-  <a href="https://github.com/YOUR_USERNAME/project-auth-jwt">
-    <b>🔐 Auth / JWT Practice</b>
-  </a>
-  <br/>
-  로그인, 토큰 발급, 권한 처리 흐름을 연습한 프로젝트
-  <br/><br/>
-
-  <a href="https://github.com/YOUR_USERNAME/project-ai-service">
-    <b>🤖 AI Web Service</b>
-  </a>
-  <br/>
-  AI 기능을 활용한 웹 서비스 실습 프로젝트
-</div>
-
-<br>
-
 <h3 align="center">📫 Contact</h3>
 
 <div align="center">
