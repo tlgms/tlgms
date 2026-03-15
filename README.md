@@ -59,13 +59,10 @@
 <h3 align="center">📫 Contact</h3>
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:siheun9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://velog.io/@YOUR_VELOG_ID">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/tlgms">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -75,8 +72,8 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tlgms&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="165" />
 </div>
 
 <br>
