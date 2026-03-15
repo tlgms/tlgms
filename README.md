@@ -34,14 +34,14 @@
   <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="165" />
 </div>
 
----
+<br><br>
 
 <!-- 메인 프로필 푸터 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
 </p>
 
-<br><br><br>
+---
 
 <!-- GitAnimals 전용 헤더 -->
 <p align="center">
