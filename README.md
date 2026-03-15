@@ -32,8 +32,8 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api?username=tlgms&show_icons=true&theme=tokyonight" height="142" />
-  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="142" />
+  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api?username=tlgms&show_icons=true&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="140" />
 </div>
 
 <br><br>
