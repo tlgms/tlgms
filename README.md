@@ -37,9 +37,10 @@
 
 <br><br>
 
----
-
-<h3 align="center">🐾 GitAnimals</h3>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><b>🎨 Side Space</b></p>
+<p align="center">GitAnimals Zone</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gh7035&utm_content=farm">
