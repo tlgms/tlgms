@@ -82,3 +82,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
 </p>
+
+
+<!-- 헤더 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Student&descAlignY=60&descAlign=50" />
+</p>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gh7035&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/tlgms" width="600" height="300"/>
+  </a>
+</div>
+
+<!-- 푸터 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
+</p>
