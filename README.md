@@ -13,8 +13,9 @@
 <h3 align="center">🙋 About Me</h3>
 <p align="center">
   백엔드 개발자를 목표로 공부 중인 학생입니다.<br/>
-  Java와 Spring Boot를 중심으로 서버 개발을 배우고 있고,<br/>
-  Android, Docker, AWS, AI 활용 웹 서비스에도 관심이 있습니다.
+  Java와 Spring Boot를 중심으로 서버 개발을 배우고 있으며,<br/>
+  Node.js와 FastAPI도 함께 익히고 있습니다.<br/>
+  Android, Docker, AWS, 그리고 AI 활용 웹 서비스에도 관심이 많습니다.
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
