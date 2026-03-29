@@ -59,8 +59,16 @@
   </a>
 </div>
 
-<br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tlgms&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/tlgms?pet-id=820971852727404758"
+    width="600"
+    height="120"
+  />
+</a>
 
+<br>
+  
 <!-- GitAnimals 전용 푸터 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,50:6a82fb,100:4facfe&height=120&section=footer" />
