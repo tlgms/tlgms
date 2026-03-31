@@ -84,8 +84,8 @@
 <br>
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gh7035&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/cowtree28" width="600" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tlgms&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/tlgms" width="600" />
   </a>
 </div>
 
