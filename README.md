@@ -5,7 +5,7 @@
 
 <!-- 소개 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+MySQL;Backend+Developer+Student;Learning+Android%2C+Docker%2C+AWS;Interested+in+AI-powered+Web+Services" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+MySQL;Node.js+%7C+Express+%7C+NestJS;Backend+Developer+Student;Learning+Android%2C+Docker%2C+AWS;Interested+in+AI-powered+Web+Services" alt="Typing SVG" />
 </p>
 
 <br>
@@ -14,7 +14,7 @@
 <p align="center">
   백엔드 개발자를 목표로 공부 중인 학생입니다.<br/>
   Java와 Spring Boot를 중심으로 서버 개발을 배우고 있으며,<br/>
-  Node.js와 FastAPI도 함께 익히고 있습니다.<br/>
+  Node.js, Express, NestJS, FastAPI도 함께 익히고 있습니다.<br/>
   Android, Docker, AWS, 그리고 AI 활용 웹 서비스에도 관심이 많습니다.
 </p>
 
@@ -27,6 +27,28 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact Links</h3>
+
+<div align="center">
+  <a href="https://velog.io/@siheun9" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  <a href="mailto:siheun9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tlgms" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%8B%9C%ED%9D%94-%EA%B9%80-184a62393/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br>
