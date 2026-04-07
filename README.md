@@ -89,6 +89,15 @@
   </a>
 </div>
 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/829153159753474056/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+
 <br>
   
 <!-- GitAnimals 전용 푸터 -->
