@@ -3,19 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Student&descAlignY=60&descAlign=50" />
 </p>
 
-<!-- 소개 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+MySQL;Node.js+%7C+Express+%7C+NestJS;Backend+Developer+Student;Learning+Android%2C+Docker%2C+AWS;Interested+in+AI-powered+Web+Services" alt="Typing SVG" />
-</p>
-
-<br>
-
 <h3 align="center">🙋 About Me</h3>
 <p align="center">
   백엔드 개발자를 목표로 공부 중인 학생입니다.<br/>
   Java와 Spring Boot를 중심으로 서버 개발을 배우고 있으며,<br/>
-  Node.js, Express, NestJS, FastAPI도 함께 익히고 있습니다.<br/>
-  Android, Docker, AWS, 그리고 AI 활용 웹 서비스에도 관심이 많습니다.
+  Node.js, Express, NestJS, FastAPI도 함께 익히고 있습니다!
 </p>
 
 <br>
@@ -37,7 +29,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/H2-1E4C8C?style=for-the-badge&logoColor=white" />
 </div>
 
 <br>
