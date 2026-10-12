@@ -1,97 +1,60 @@
-<!-- 메인 헤더 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20Student&descAlignY=60&descAlign=50" />
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Welcome to my GitHub! Backend developer student, @tlgms 김시흔" />
+</div>
+
+<br/>
+
+> **안**녕하세요! 백엔드 개발자를 목표로 공부 중인 학생입니다.
+> **Java**와 **Spring Boot**를 중심으로 서버 개발을 배우고 있으며, Node.js, Express, NestJS, FastAPI도 함께 익히고 있습니다!
+
+<img src="./assets/icon-velog.svg" width="22" align="top" alt="velog" />&nbsp; [velog.io/@siheun9](https://velog.io/@siheun9)<br/>
+<img src="./assets/icon-gmail.svg" width="22" align="top" alt="Email" />&nbsp; [siheun9@gmail.com](mailto:siheun9@gmail.com)<br/>
+<img src="./assets/icon-github.svg" width="22" align="top" alt="GitHub" />&nbsp; [github.com/tlgms](https://github.com/tlgms)<br/>
+<img src="./assets/icon-linkedin.svg" width="22" align="top" alt="LinkedIn" />&nbsp; [LinkedIn · 시흔 김](https://www.linkedin.com/in/%EC%8B%9C%ED%9D%94-%EA%B9%80-184a62393/)
+
+<br/>
+
+## TECH STACK
+
+| | |
+|:--|:--|
+| **LANG** | ![Java](https://img.shields.io/badge/Java-1432E6?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-FFE7D1?style=for-the-badge&logo=kotlin&logoColor=E8964F) |
+| **SERVER** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1432E6?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-E8964F?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-FFE7D1?style=for-the-badge&logo=express&logoColor=E8964F) ![NestJS](https://img.shields.io/badge/NestJS-FFE7D1?style=for-the-badge&logo=nestjs&logoColor=E8964F) ![FastAPI](https://img.shields.io/badge/FastAPI-FFE7D1?style=for-the-badge&logo=fastapi&logoColor=E8964F) |
+| **DATA** | ![MySQL](https://img.shields.io/badge/MySQL-E8964F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFE7D1?style=for-the-badge&logo=postgresql&logoColor=E8964F) |
+
+<br/>
+
+## TOOLBOX
+
+<img src="./assets/toolbox.svg" width="760" alt="Toolbox: Git, GitHub, Docker, AWS EC2, Oracle Cloud VM" />
+
+<br/>
+
+## GITHUB STATS
+
+<p>
+  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api?username=tlgms&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1432e6&icon_color=ff7a00&text_color=1a1f5c" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&hide_border=true&bg_color=ffffff&title_color=1432e6&text_color=1a1f5c" height="150" alt="Top languages" />
 </p>
 
-<h3 align="center">🙋 About Me</h3>
-<p align="center">
-  백엔드 개발자를 목표로 공부 중인 학생입니다.<br/>
-  Java와 Spring Boot를 중심으로 서버 개발을 배우고 있으며,<br/>
-  Node.js, Express, NestJS, FastAPI도 함께 익히고 있습니다!
-</p>
-
-<br>
-
-<h3 align="center">✨ Tech Stack</h3>
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+## 🐾 LITTLE ANIMAL ZONE
+
+<sub>A PLAYFUL SPACE SEPARATE FROM MY DEVELOPER PROFILE</sub>
+
+<br/><br/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tlgms&utm_content=farm">
+  <img src="https://render.gitanimals.org/farms/tlgms" width="600" alt="gitanimals farm" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.gitanimals.org/">
+  <img src="./assets/gitanimals-guild.svg" width="600" alt="gitanimals guild" />
+</a>
+
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact Links</h3>
-
-<div align="center">
-  <a href="https://velog.io/@siheun9" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-  <a href="mailto:siheun9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/tlgms" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/%EC%8B%9C%ED%9D%94-%EA%B9%80-184a62393/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<h3 align="center">📈 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api?username=tlgms&show_icons=true&theme=tokyonight" height="140" />
-  <img src="https://github-readme-stats-seven-eta-42.vercel.app/api/top-langs/?username=tlgms&layout=compact&theme=tokyonight" height="140" />
-</div>
-
-<br><br>
-
-<!-- 메인 프로필 푸터 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" />
-</p>
-
----
-
-<!-- GitAnimals 전용 헤더 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:6a82fb,100:43e97b&height=200&section=header&text=Little%20Animal%20Zone&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=A%20playful%20space%20separate%20from%20my%20developer%20profile&descAlignY=65&descAlign=50" />
-</p>
-
-<br>
-
-<div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tlgms&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/tlgms" width="600" />
-  </a>
-
-  <a href="https://www.gitanimals.org/">
-    <img
-      src="https://render.gitanimals.org/guilds/829153159753474056/draw"
-      width="600"
-      height="300"
-      alt="gitanimals"
-     />
-  </a>
-</div>
-
-<br>
-  
-<!-- GitAnimals 전용 푸터 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,50:6a82fb,100:4facfe&height=120&section=footer" />
-</p>
