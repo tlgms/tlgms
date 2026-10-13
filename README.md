@@ -6,7 +6,7 @@
 <!-- About me -->
 <p align="center">
   <img src="./assets/about.svg" width="100%" alt="About me" />
-</p>a
+</p>
 
 <br>
 
